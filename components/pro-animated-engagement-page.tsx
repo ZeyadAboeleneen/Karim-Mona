@@ -402,7 +402,7 @@ export default function ProAnimatedEngagementPage({ onImageLoad, playGifTrigger 
           </motion.div>
 
           <motion.div variants={scaleIn}>
-            <CountdownTimer targetDate={new Date("2026-03-26T19:00:00")} />
+            <CountdownTimer targetDate={new Date("2026-03-28T19:00:00")} />
           </motion.div>
         </div>
       </motion.section>

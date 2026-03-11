@@ -56,7 +56,7 @@ export default function EngagementPage() {
             </div>
           </div>
 
-          <CountdownTimer targetDate={new Date("2026-03-26T19:00:00")} />
+          <CountdownTimer targetDate={new Date("2026-03-28T19:00:00")} />
         </div>
       </section>
 
